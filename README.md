@@ -15,3 +15,7 @@ Analytic tools: Athena, Redshift, OpenSearc, Glue, Kinesis Data Analytics.
 Monitoring tools: CloudWatch, EventBridge, CloudTrail and Config.
 Security tools: encryption fundamentals, KMS, SSM Parameter Store, Secret Manager, Shield, WAF, Security Groups, NACLs, Firewall Manager and Network Firewall.
 VPC: CIDR, subnets, IPs, Internet Gateway, route tabels, Bastion Hosts, NAT, NACL, Security Groups, VCP Peering, VPC Endpoint, VPC flow logs, VPN, Direct Connect and Transit Gateway.
+
+
+![Screenshot 2023-12-28 134605-CUT](https://github.com/almoggal4/AWSSolutionArchitectAssociate-/assets/58898643/fd9c72f4-2671-4470-bf3c-3327be5c10b3)
+![1_W02WEmR0_JeJXfLWN2zHwQ](https://github.com/almoggal4/AWSSolutionArchitectAssociate-/assets/58898643/58c13e2b-6634-47ff-8a3b-1388b7608071)
